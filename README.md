@@ -67,13 +67,19 @@ IPv6: Disabled
 The Kali Linux virtual machine was extracted and successfully added to Oracle VirtualBox.
 
 
-## Step 5- Configure Kali Linux Network 
+## Step 5- Configure the Kali Linux Network 
 
+The Kali Linux network interface eth0 was configured for the laboratory network 
+## Network Configuration 
+```text
+IP Address: 10.0.0.2
+Netmask:    24
+Gateway:    10.0.0.1
+DNS:        8.8.8.8
+```
 
+Kali Linux Network Configuration 
 
-
-
-
-
+## Step 6- 
 
 
