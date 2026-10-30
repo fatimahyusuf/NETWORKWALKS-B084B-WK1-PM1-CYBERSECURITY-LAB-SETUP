@@ -131,5 +131,6 @@ This laboratory is intended strictly for education purposes only.
 
 # Author
 
-## Yusuf Fatimah Itunuoluwa 
+## Yusuf Fatimah Itunuoluwa
+## LinkedIn: https://www.linkedin.com/in/fatimah-yusuf-4b31442a9/  
 
