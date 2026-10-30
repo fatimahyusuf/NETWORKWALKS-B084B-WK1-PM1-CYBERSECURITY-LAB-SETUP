@@ -22,5 +22,5 @@ A private virtual network is used to connect the lab environment, making it poss
 
 # Lab Configuration 
 
-|Component             |Configuration |
-|virtual platform|
+| Component             | Configuration |
+|virtual platform       | Oracle VirtualBox 7.2.6 
