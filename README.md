@@ -46,7 +46,26 @@ Oracle VirtualBox 7.2.6 was successfully installed and set up to serve as the vi
 Kali Linux 2026.2 was deployed as the main virtual machine for the lab, providing the platform for running cybersecurity tools and performing ethical hacking exercises.
 ## Kali Linux Installation 
 
-## Step 3- 
+## Step 3- Configure the Virtual Network 
+
+A dedicated NATNETWORK was assigned in VirtualBox 
+
+Configuration:
+-------------
+Network Name: NatNetwork 
+IPv4: 10.0.0.0/24
+DHCP: Enabled 
+IPv6: Disabled 
+## Virtual Network Configuration 
+
+## Step 4- 
+
+
+
+
+
+
+
 
 
 
