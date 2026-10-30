@@ -117,9 +117,19 @@ I learned the importance of creating baseline snapshots to preserve a working en
 ### 3. Technical Documentation
 I developed practical documentation skills by recording configurations, commands, screenshots, challenges, and solutions throughout the project.
 
-# Security and Ethical use 
+# 🔐Security and Ethical use 
 This laboratory is intended strictly for education purposes only.
 
+# Project Checklist 
+- Oracle VirtualBox installed
+- Kali Linux 2026.2 installed
+- NAT Network configured
+- Kali network interface configured
+- Network connectivity restored
+- GitHub repository created
+- Evidence screenshots added
 
+# Author
 
+## Yusuf Fatimah Itunuoluwa 
 
