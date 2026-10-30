@@ -38,9 +38,15 @@ A private virtual network is used to connect the lab environment, making it poss
 
 ## Step 1- Install Oracle VirtualBox 
 
+Oracle VirtualBox 7.2.6 was successfully installed and set up to serve as the virtualization platform for the cybersecurity lab.
+## VirtualBox Installation 
 
+## Step 2- Install Kali Linux 
 
+Kali Linux 2026.2 was deployed as the main virtual machine for the lab, providing the platform for running cybersecurity tools and performing ethical hacking exercises.
+## Kali Linux Installation 
 
+## Step 3- 
 
 
 
