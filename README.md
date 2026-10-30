@@ -62,8 +62,12 @@ IPv6: Disabled
 ## Virtual Network Configuration 
 
 
-## Step 4- 
+## Step 4- Import Kali Linux 
 
+The Kali Linux virtual machine was extracted and successfully added to Oracle VirtualBox.
+
+
+## Step 5- Configure Kali Linux Network 
 
 
 
