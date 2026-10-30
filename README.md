@@ -19,3 +19,8 @@ A private virtual network is used to connect the lab environment, making it poss
 - Assign a stable IP address to the virtual machine.
 - Create a recovery snapshot.
 - Document the setup process and prepare the lab for future cybersecurity activities.
+
+# Lab Configuration 
+
+|Component             |Configuration |
+|virtual platform|
