@@ -40,12 +40,16 @@ A private virtual network is used to connect the lab environment, making it poss
 
 Oracle VirtualBox 7.2.6 was successfully installed and set up to serve as the virtualization platform for the cybersecurity lab.
 ## VirtualBox Installation 
+<img width="780" height="615" alt="Screenshot 2026-10-30 132540" src="https://github.com/user-attachments/assets/fb3d3cbb-9ee5-4e48-b168-3f853ca78fb4" />
 
 
 ## Step 2- Install Kali Linux 
 
 Kali Linux 2026.2 was deployed as the main virtual machine for the lab, providing the platform for running cybersecurity tools and performing ethical hacking exercises.
 ## Kali Linux Installation 
+<img width="802" height="33" alt="Screenshot 2026-10-30 134952" src="https://github.com/user-attachments/assets/0d235835-db60-40b1-a2ad-0fdf1a548033" />
+<img width="612" height="502" alt="Screenshot 2026-10-30 135054" src="https://github.com/user-attachments/assets/7e29f219-92f5-4cc8-b799-dbc40305e959" />
+
 
 
 ## Step 3- Configure the Virtual Network 
@@ -60,6 +64,7 @@ DHCP: Enabled
 IPv6: Disabled
 ````
 ## Virtual Network Configuration 
+<img width="1910" height="966" alt="Screenshot 2026-10-30 140955" src="https://github.com/user-attachments/assets/74572f6a-1c84-4611-aaaa-732c1f1303e3" />
 
 
 ## Step 4- Import Kali Linux 
@@ -77,9 +82,28 @@ Netmask:    24
 Gateway:    10.0.0.1
 DNS:        8.8.8.8
 ```
+      
+## Kali Linux Network Configuration 
+<img width="1047" height="695" alt="Screenshot 2026-10-30 142122" src="https://github.com/user-attachments/assets/a08e79db-4347-48d4-85aa-b079645e1833" />
 
-Kali Linux Network Configuration 
+## Verification Commands 
+```text
+ip link show eth0
+ip a
+ip route
+nmcli device status
+```
+These commands were used to verify the interface status, ip address, routing information and NetworkManger Status.
 
-## Step 6- 
+## Step 6- Create a Clean Virtual Machine Snapshot
+
+A baseline snapshot was saved after completing the initial Kali Linux setup.
+This serves as a backup point, allowing the lab environment to be restored whenever needed during future cybersecurity activities.
+## Clean Virtual Machine Snapshot
+<img width="1903" height="919" alt="Screenshot 2026-10-30 142603" src="https://github.com/user-attachments/assets/91806929-10cf-4d8e-ae50-6c864e724f1f" />
+
+
+
+
 
 
