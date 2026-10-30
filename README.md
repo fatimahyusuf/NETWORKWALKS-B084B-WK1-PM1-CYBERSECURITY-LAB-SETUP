@@ -35,5 +35,12 @@ A private virtual network is used to connect the lab environment, making it poss
 | DNS Server             | 8.8.8.8                      |
 
 # 🪜Lab Setup Procedures 
-# Step 1- 
+
+## Step 1- Install Oracle VirtualBox 
+
+
+
+
+
+
 
