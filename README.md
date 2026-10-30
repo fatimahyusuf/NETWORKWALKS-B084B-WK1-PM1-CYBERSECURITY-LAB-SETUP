@@ -22,5 +22,18 @@ A private virtual network is used to connect the lab environment, making it poss
 
 # Lab Configuration 
 
-| Component             | Configuration |
-|virtual platform       | Oracle VirtualBox 7.2.6 
+| Component              | Configuration    |        
+|------------------------|------------------|
+| Virtual platform       | Oracle VirtualBox 7.2.6 |
+| Primary Security VM    | Kali Linux 2026.2           |
+| Network Type           | NATNetwork                   |
+| Network Address        | 10.0.0.0/24                  |
+| Kali Interface         | eth0                         |
+| Kali IP Address        | 10.0.0.2/24                  |
+| Default Gateway        | 10.0.0.1                     |
+| DNS Server             | 8.8.8.8                      |
+
+
+
+
+
