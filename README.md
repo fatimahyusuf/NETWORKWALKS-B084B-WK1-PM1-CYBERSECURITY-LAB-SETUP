@@ -102,7 +102,23 @@ This serves as a backup point, allowing the lab environment to be restored whene
 ## Clean Virtual Machine Snapshot
 <img width="1903" height="919" alt="Screenshot 2026-10-30 142603" src="https://github.com/user-attachments/assets/91806929-10cf-4d8e-ae50-6c864e724f1f" />
 
+# What I Learned
 
+This project provided practical experience in building and managing a virtual environment for cybersecurity testing.
+
+The key concepts and skills gained include:
+
+### 1. Static IP Configuration
+I learned how to assign and verify static IP addresses, subnet masks, default gateways, and DNS settings in Kali Linux.
+
+### 2. Virtual Machine Snapshots
+I learned the importance of creating baseline snapshots to preserve a working environment and provide a recovery point before future experiments.
+
+### 3. Technical Documentation
+I developed practical documentation skills by recording configurations, commands, screenshots, challenges, and solutions throughout the project.
+
+# Security and Ethical use 
+This laboratory is intended strictly for education purposes only.
 
 
 
